@@ -1,0 +1,14 @@
+.Swiper{
+    height: 100vh;
+}
+.swiper-slide img{
+    height: 40vh;
+    margin-bottom: 40px;
+}
+.swiper-slide{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
